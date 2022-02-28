@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from the Committee of Estates at Newcastle, and the Commissioners of the Kingdom of Scotland residing at London to both Houses of Parliament. Together with two papers delivered in to His Maiesty by the Committee of Estates. As also divers letters past between the Committee of Estates, and the Committee of Parliament at York, and Col: General Poyntz. Published by special command.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92583</idno>
+            <idno type="STC">Wing S1291</idno>
+            <idno type="STC">Thomason E340_26</idno>
+            <idno type="STC">ESTC R200888</idno>
+            <idno type="EEBO-CITATION">99861512</idno>
+            <idno type="PROQUEST">99861512</idno>
+            <idno type="VID">113649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113649)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from the Committee of Estates at Newcastle, and the Commissioners of the Kingdom of Scotland residing at London to both Houses of Parliament. Together with two papers delivered in to His Maiesty by the Committee of Estates. As also divers letters past between the Committee of Estates, and the Committee of Parliament at York, and Col: General Poyntz. Published by special command.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+                  <author>Poyntz, Sydenham.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>14 [i.e. 16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>June 17. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 9-16 are misnumbered 7-14.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113649:1" rendition="simple:additions"/>
+            <p>LETTERS FROM The Committee of Eſtates at <hi>Newcaſtle,</hi> AND THE COMMISSIONERS OF The Kingdom of SCOTLAND reſiding at <hi>London</hi> to both Houſes of <hi>Parliament.</hi> Together with Two PAPERS Delivered in to His MAIESTY by the Committee of Eſtates.</p>
+            <p>As alſo divers LETTERS paſt between the Committee of Eſtates, and the Committee of Parliament at <hi>York,</hi> and Col: General <hi>Poyntz.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Laurence Chapman,</hi> June 17. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:113649:2"/>
+            <pb n="3" facs="tcp:113649:2"/>
+            <opener>
+               <dateline>
+                  <date>15 <hi>June,</hi> 1646.</date>
+               </dateline>
+            </opener>
+            <head>A Letter to the Speaker of the Houſe of Peers <hi>pro tempore,</hi> To be communicated to to both Houſes of Parliament, from the Commiſsioners of the Parliament of SCOTLAND.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>VEE have frequently, and of a long time repreſented to the Honourable Houſes our earneſt deſires of a happy and ſpeedy Peace, of which we are ſo ſtudious, that we cannot ceaſe from expreſsing the ſame Deſires at all Op<g ref="char:EOLhyphen"/>portunities; and the rather at this time, becauſe of the ſad ſtroke lately faln upon our Brethren in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> vvhoſe former and preſent ſufferings under which they groan, do of themſelves call ſo loud, that we do not doubt the Houſes from their wiſdom, care, and commiſeration, will timely and effectually apply themſelves to the compoſing of all differen<g ref="char:EOLhyphen"/>ces, and the ſpeedy ſetling of a happy Peace in this Iſland, whereby they may be enabled to ſend fur<g ref="char:EOLhyphen"/>ther aid and ſuccour unto that Kingdom for proſe<g ref="char:EOLhyphen"/>cuting of the War there, and reducing the Rebels to obedience; and for the ſame ends ſpeedily to ſend
+<pb n="4" facs="tcp:113649:3"/>proviſions to the Scotiſh army there, who for many Moneths have received no entertainment, notwith<g ref="char:EOLhyphen"/>ſtanding of their faithfulneſſe and great ſufferings in that publike ſervice.</p>
+            <p>Another occaſion now miniſtred unto us, is, from the preſsing and unſupplyed neceſſities of our Army in the North of this Kingdom, who are extremely ſtraitned in their quarters and proviſions: For reme<g ref="char:EOLhyphen"/>dy whereof, the Lord General and Committee of Eſtates with the Army, did write to the Committee at <hi>York,</hi> and to Colonel General <hi>Poyntz,</hi> who in their Anſwers have declared no unwillingneſſe, but that they are not enabled by any power from the Parlia<g ref="char:EOLhyphen"/>ment to afford them the deſired aſſiſtance and ſatiſ<g ref="char:EOLhyphen"/>faction towards the inlargement of their Quarters, or bettering of their proviſions, as will more fully appear by the Letters themſelves herewith preſent<g ref="char:EOLhyphen"/>ed, We do therefore again earneſtly deſire the Ho<g ref="char:EOLhyphen"/>norable Houſes will be pleaſed to give order to the Committee at <hi>York</hi> for the convenient quartering of the Scotiſh Army, and for accommodating them with neceſſary proviſions, that the burthens of the Countrey occaſioned to our great grief, by the fail<g ref="char:EOLhyphen"/>ing of the due and orderly courſe of providing for that Army, may be eaſed: To which end, We do alſo renew our former deſire for ſending them from hence a conſiderable ſum of Money towards the diſ<g ref="char:EOLhyphen"/>charging of their quarters. We muſt further make known, that as the Committee at <hi>York,</hi> and General Colonel <hi>Poyntz</hi> in their Letters of the fourth of this inſtant June, Do fairly and ingenuouſly give teſti<g ref="char:EOLhyphen"/>mony to the faithfull and careful Endeavours of the
+<pb n="5" facs="tcp:113649:3"/>Committee of Eſtates for preventing miſunderſtand<g ref="char:EOLhyphen"/>ings, and for preſerving Peace and Amity between the Kingdoms, of which they were pleaſed in theſe Letters to give for inſtance the Orders of the Com<g ref="char:EOLhyphen"/>mittee of Eſtates, for preventing the future enter<g ref="char:EOLhyphen"/>tainment of ſuch as ſhall give occaſion of offence, and for disbanding the Regiment of General Major <hi>Vandrusk;</hi> which, as the Meſſenger ſent hither doth aſſure us, is already put in execution, and none of them are ſuffered to be received in other Regiments. And as that Honorable Committee in their Paper of the Eighth of this inſtant preſented to the King (which we do herewith communicate) and in their own Letters to the Honorable Houſes now ſent, have expreſſed their firm reſolution, not to ſuffer themſelves to be divided from their Brethren of <hi>England,</hi> with whom they are United by the Solemn League and Covenant, But to preſerve the happy Union, and to obſerve the whole Articles of the Covenant and Treaties between the Kingdoms; So upon the moſt particular and aſſured knowledge which we have of their faithful, real, and unanimous Endeavours, We dare confidently ſay, That if both Houſes had been witneſſes to their moſt privie Con<g ref="char:EOLhyphen"/>ſultations, as before, ſo eſpecially ſince His Majeſty did unexpectedly come amongſt them, It had been in ſtead of many Demonſtrations, to remove Jealou<g ref="char:EOLhyphen"/>ſies between the Nations, and to breed a more full confidence of their Sincerity and Integrity towards this Nation. We therefore joyning and co-operating with them for the ſame good ends, Do with all ear<g ref="char:EOLhyphen"/>neſtneſſe deſire the expediting of the Propoſitions
+<pb n="6" facs="tcp:113649:4"/>intended to be ſent to His Majeſty; That by the bleſſing of God upon the joynt Deſires, Councels, and Endeavors of both Kingdoms, Religion and Peace, with all poſſible ſpeed may be ſetled, all Di<g ref="char:EOLhyphen"/>ſtempers and Differences healed, all Armies in both Kingdoms disbanded, the Country eaſed, the di<g ref="char:EOLhyphen"/>ſtreſſed Brethren in <hi>Ireland</hi> relieved, and a firm Peace and Union in this Country continued to the Generations following, then which nothing can be more earneſtly deſired, or endeavoured by</p>
+            <closer>
+               <signed>Your Lordſhips humble Servants,</signed>
+               <dateline>
+                  <hi>Worceſterhouſe,</hi> 
+                  <date>June 15. 1646.</date>
+               </dateline>
+               <signed>Signed
+<list>
+                     <item>
+                        <hi>A. Iohnſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Kennedy.</hi>
+                     </item>
+                     <item>Lauderdail.</item>
+                     <item>
+                        <hi>Charls Erskine.</hi>
+                     </item>
+                     <item>
+                        <hi>Ro: Barclay.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>We do alſo again earneſtly deſire, That the Honorable Houſes will ſend a Committee to joyn with the Committee of Eſtates, who may be witneſſes of all their proceed<g ref="char:EOLhyphen"/>ings, and co operate with them for the good of the publike ſervice here.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:113649:4"/>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>NOt only our conſciences bear witneſſe to our ſelves, but our actions are a real and publike teſtimony to all men who have marked our wayes ſince our coming into this Kingdom, how earneſt our deſires, and how conſtant our endeavours have been to preſerve the Union of the two Kingdoms, as a principal mean of happineſſe of both; and for this end, what our affection and care hath been to obſerve and perform the whole Articles of the Co<g ref="char:EOLhyphen"/>venant and Treaties betwixt the Kingdoms: Yet (thus much we may truly ſay) at no time ſince the beginning of our engagement in this Cauſe, have we with more ſincerity and faithfulneſſe endeavored to improve our opportunities for the Publike, then we have done of late ſince His Majeſties unexpect<g ref="char:EOLhyphen"/>ed coming into our Army, by our carneſt and un<g ref="char:EOLhyphen"/>ceſſant dealing with Him, to ſend ſuch Meſſages to His Parliament, as might give them full ſatisfacti<g ref="char:EOLhyphen"/>on, and be a ſure ground of Peace to His Kingdoms, and of Happineſſe to Himſelf: And although we have not as yet prevailed ſo far againſt ſuch prrinci<g ref="char:EOLhyphen"/>ples, as by education, length of time, and the Coun<g ref="char:EOLhyphen"/>cels and Company of ſuch as have been formerly about Him, have been deeply noted in His minde, as to obtain the utmoſt of our deſires; yet have we not loſt our labor, nor are we diffident, but that in a ſhort time He may be moved to give ſatisfaction to His people, which when it cometh, will be a matter of rejoycing to all that loveth the ſetling of Religi<g ref="char:EOLhyphen"/>on and Peace. And we do earneſtly entreat, and confidently expect, That the Houſes of Parliament
+<pb n="8" facs="tcp:113649:5"/>will in their Wiſdom, and from their love of Peace, be pleaſed, with the concurrence of the Commiſſi<g ref="char:EOLhyphen"/>oners from the Parliament of <hi>Scotland,</hi> ſpeedily to ſend ſuch Propoſitions and Demands to be granted by His Majeſty, as are neceſſary for curing the preſent Diſtempers, the ſetling of Religion and Peace, the ſafety of His Majeſties Perſon and Authority, and the confirming and conſerving the Union of the Kingdoms: Which being ſent, we will upon His Majeſties anſwer, clearly and diſtinctly know how to proceed in this intended Pacification, And to ſa<g ref="char:EOLhyphen"/>tisfie the deſires of the Parliament, and our own, in Disbanding our Forces, delivering up the Garri<g ref="char:EOLhyphen"/>ſons poſſeſs'd by us, and retiring home, after all our Sufferings, with the ſame cheerfulneſſe and affection that we had when we came into this Kingdom; And we reſolve ſhortly to ſend ſome from us to give your Lordſhips further Informations of our proceedings here, that by mutual and joynt advice, ſuch things as may ſerve for the Peace and good of both King<g ref="char:EOLhyphen"/>doms, may be brought to a ſpeedy and happy cloſe, which is the earneſt deſire of</p>
+            <closer>
+               <dateline>
+                  <hi>Newcaſtle,</hi> 
+                  <date>June 10. 1646.</date>
+               </dateline>
+               <signed>Your Lorſhips humble Servants, <hi>Loudoun. Leven. Argyl. Calander. Crawford</hi> and <hi>Lindſay. Dunfermlinge. Lothian, Lanerick. A: Hepburne. D: Home, T: Shaw. Ro: Freidland. Wil: Glendoning.</hi>
+               </signed>
+            </closer>
+            <trailer type="direction">For the Right Honorable the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in the Parliament of <hi>England</hi> at <hi>Weſtminſter.</hi>
+            </trailer>
+         </div>
+         <div type="paper">
+            <pb n="7" facs="tcp:113649:5"/>
+            <head>A Paper delivered in to His Majeſty by the Committee of Eſtates of the Kingdome of Scotland at Newcaſtle, concerning the Prince.</head>
+            <p>WE doe humbly repreſent to your Ma<g ref="char:EOLhyphen"/>jeſty, That we conceive it will much contribute for the good of your ſervice, and the better procuring a right underſtanding and well grounded peace, if your Majeſty were pleaſed to give Order, that the Prince his Highneſſe goe not beyond Sea, but that he may ſtay within this Kingdome, ſo as he may reſide therein with honour and ſafety, for preventing the dangers which may be to his Perſon and Religion, and the jelouſies and inconveniences which may en<g ref="char:EOLhyphen"/>ſue upon his Highneſſe going out of the King<g ref="char:EOLhyphen"/>dome in this joynture of time and affaires.</p>
+            <closer>
+               <dateline>
+                  <hi>Newcaſtle,</hi>
+                  <date>2 <hi>Iune</hi> 1646.</date>
+               </dateline>
+               <signed>Loudoun J. P. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="paper">
+            <pb n="8" facs="tcp:113649:6"/>
+            <head>Another Paper delivered in by the Committee of Eſtates to His Majeſty.</head>
+            <p>WHereas upon conſideration of the preſent condition of affaires and ſence of our duty, we did in all humility and faithfulneſſe adviſe and beſeech your Majeſty that you would he pleaſed to ſend ſuch a meſſage to the houſes of Par<g ref="char:EOLhyphen"/>liament, and Commiſſioners of Scotland, as might be a ground of ſetling Religion and Peace, according to the ſo<g ref="char:EOLhyphen"/>lemne League and Covenant. It is ſtill our earneſt deſire, that your Majeſty would be graciouſly pleaſed to ſend ſuch a Meſſage for the further ſatisfaction of your Parliaments, and preventing of imminent dangers which may enſue upon the delay thereof; Which, if your Majeſty ſhall not (out of your wiſdome and compaſſion of the ſad condition of your Kingdomes) be pleaſed to grant, We will be conſtrained preſently to take ſuch a courſe, as that by mutuall advice and reſolutions of both Kingdomes, they may be ſaved from a breach, and the dangerous ſequels prevented which may follow.</p>
+            <closer>
+               <signed>Signed by all the Committee and Generall Officers of the Army.</signed>
+               <dateline>
+                  <hi>Newcaſtle,</hi>
+                  <date>
+                     <hi>the 8 June 1646.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:113649:6"/>
+            <opener>
+               <salute>May it pleaſe your Honours,</salute>
+            </opener>
+            <p>WE finde by your Lordſhips Letters of the firſt of <hi>Iune,</hi> you are not pleaſed to give us any hopes of the removing of your Forces out of the County, which we have beene often ſuiters for; inregard of the diſa<g ref="char:EOLhyphen"/>bility of the County to bear the charge of both Armies, and cannot forbeare to renew the ſame ſuit ſtill. Your Honours are ſtill pleaſed to deſire our aſſiſtance in the quartering of, and proviſion for your Army here; to which my Lords, we muſt deale ingeneouſly, as we had no power in that particular heretofore, ſo at preſent, neither in that, nor any other publike imployment, by reaſon that the Ordinance by which we Acted expi<g ref="char:EOLhyphen"/>red the laſt of <hi>May,</hi> and we having yet receaved no in<g ref="char:EOLhyphen"/>timation from the Parliament of their pleaſure for the continuance of it. We have often times applyed our ſelves to the houſe for their ſpeedy courſe for the pro<g ref="char:EOLhyphen"/>viſion of your Army in ſome equall way, and doe expect a returne daily, till then (eſpecially in the condition we now are) we hope your Lordſhips will not expect any further Anſwer from us herein, and that your Lordſhips will reſt ſatisfied in the reality of our deſires and cares to do the utmoſt in our power that may ſpeak our Conſtancy to our Covenant, and our zeale to pre<g ref="char:EOLhyphen"/>vent miſtakes, that might any way weaken the happy mutuall unity between the two Nations. And truly my Lords we cannot but with many Honourable re<g ref="char:EOLhyphen"/>ſpects take notice of your Lordſhips care therein, and
+<pb n="10" facs="tcp:113649:7"/>of that Honourable inſtance your Lordſhips have given, in your Order for disbanding of Colonell <hi>Vandruks</hi> Regiment; in execution whereof we conceave your Lordſhips will doe your ſelves and the cauſe much right; ſo ſoone my Lords as we ſhall obtaine any re<g ref="char:EOLhyphen"/>turne from the Parliament, we ſhall readily give your Lordſhips a further accompt. In the meane time ſhall deſire to be accounted as we are</p>
+            <closer>
+               <dateline>
+                  <hi>Yorke</hi>
+                  <date>the 4. <hi>Iune,</hi> 1646.</date>
+               </dateline>
+               <signed>Your Honours moſt humble Servants
+<list>
+                     <item>
+                        <hi>John Boutcher Wic.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Darley.</hi>
+                     </item>
+                     <item>
+                        <hi>George Trotter.</hi>
+                     </item>
+                     <item>
+                        <hi>Ro. Barnick.</hi>
+                     </item>
+                     <item>
+                        <hi>Geo. Mawald.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. St. Nicholas.</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Farrer.</hi>
+                     </item>
+                     <item>
+                        <hi>I. Wichlethwit.</hi>
+                     </item>
+                     <item>
+                        <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>kie Mere.</hi>
+                     </item>
+                     <item>
+                        <hi>Dary Wentworth.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Goodraw.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer type="direction">For the Right Honourable the Committee of Eſtates for the Kingdome of <hi>Scotland.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:113649:7"/>
+            <opener>
+               <salute>Noble Gentlemen,</salute>
+            </opener>
+            <p>WE do perceave by your Letters of the 4<hi rend="sup">th</hi> inſtant, that the Ordinance of Parliament, by which you acted in all publike imployments expired the laſt of <hi>May,</hi> So that you are not furniſhed with authority to afford us any aſſiſtance in the quartering of, and pro<g ref="char:EOLhyphen"/>viding for our Army, which wee ſhall forbeare there<g ref="char:EOLhyphen"/>fore to preſſe any further; Not doubting, but when you are better enabled and your power enlarged, you will coninue your publike care and affection to doe every thing that may be for the good of the army, and preſerving the mutuall Amity and Union of the two Kingdomes, which we ſhall ſtudy to confirme by all the wayes and meanes that are in our power; having alſo ſeriouſly recommended the ſame to Generall Lieute<g ref="char:EOLhyphen"/>nant <hi>Leſlie</hi> (whom we deſired to repaire to us about the executing of that Order for disbanding Generall Ma<g ref="char:EOLhyphen"/>jor <hi>Vandruskes</hi> Regiment) that hee would likewiſe take ſpeciall care to prevent all miſtakes that might beget any miſunderſtanding betwixt us. So wee re<g ref="char:EOLhyphen"/>maine.</p>
+            <closer>
+               <dateline>Newcaſtle, <date>
+                     <hi>Iune</hi> 10. 1646.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours, &amp;c.</hi> Signed For the Committee of Parliament at Yorke. <hi>Leven, Lowdoun, Callender, Argyll, Crawfurd-Lindſay Dunfermling, Lanerick, Lo<g ref="char:EOLhyphen"/>thian A Hepburne D. Home, Fryland. Tho. Ker. W. Glendo<g ref="char:EOLhyphen"/>ning.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:113649:8"/>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>I Received your Lordſhips of the firſt of <hi>Iune</hi> inſtant, and as I perceave your Lordſhips doe ſuſpend your reſolutions concerning the more northerly quartering of your Army till you have a returne from the Committee of both King<g ref="char:EOLhyphen"/>domes, ſo I hope your Lordſhips will not expect any thing further from me in a buſines of ſo great concernment to this poore Country till I ſhall likwiſe hear the pleaſure of thoſe above, whoſe commands and directions your Lordſhips will apprehend I am ingaged to obſerve. My Lords, I ſhould highly injure your Lordſhips, and my ſelfe alſo, if upon all occaſions I ſhould not ac<g ref="char:EOLhyphen"/>knowledge your Lordſhips great care and pru<g ref="char:EOLhyphen"/>dent circumſpection to carry on the publik af<g ref="char:EOLhyphen"/>faires, wherein both Nations have a reciprocall intereſt, So as the happy union may be preſerved, and the great ends which are mutually driven at in the Nationall League, may be beſt atchieved, And I hope your Lordſhips will not believe, in any complaints, I have repreſented, I had the leaſt intention to reflect on your Lordſhips particu<g ref="char:EOLhyphen"/>lars, and truely My Lords, I doe with many hum<g ref="char:EOLhyphen"/>ble
+<pb n="13" facs="tcp:113649:8"/>thanks acknowledge it a great favour to my ſelfe, and a convincing evidence to the world of (what wiſe-men were alwayes ſatisfied in) your Lordſhips deſires to prevent occaſions of diſtaſte, That upon my laſt, your Lordſhips have given Order for the disbanding of Gene<g ref="char:EOLhyphen"/>rall Major <hi>Vandruskes</hi> Regiment; and for the preventing the future entertainment of ſuch as give occaſion of offence: The effecting of both which will be certainly of very good conſe<g ref="char:EOLhyphen"/>quence, and of very honourable interpretation. For my particular, I ſhall ever deeme it my ho<g ref="char:EOLhyphen"/>nour and happineſſe in any civill relation, to be inſtrumentall to the publike good, ſo none ſhall be more ready to manifeſt, what a large ſhare thereof he doth accompt is lapt in being eſtemed, as he is</p>
+            <closer>
+               <salute>My Lords</salute>
+               <signed>Your Lordſhips humble Servant. Signed <hi>Sednham Pointz.</hi>
+               </signed>
+               <dateline>
+                  <hi>York</hi> 
+                  <date>the 4. of <hi>Iune</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <trailer type="direction">For the Right Honourable the Committee of Eſtates for the Kingdom of <hi>Scotland.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <pb n="14" facs="tcp:113649:9"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE received yours of the fourth inſtant, ſhewing that you could not ſatisfie the deſires of our former Letter, nor afford us any aſſiſtance towards the enlargement of our quarters, untill their pleaſures were knowne, whoſe directions you were to obſerve: And ſeeing you are not fur<g ref="char:EOLhyphen"/>niſhed with Authority in that behalfe, we ſhall not further preſſe it, untill you be otherwiſe enabled; Not doubting but you will manifeſt the continuance of that friendſhip, whereof we have alwaies had the experience. In the mean time, we cannot but be very ſenſible of your expreſſions and acknowledgement of our care and faithfulneſſe in our pub<g ref="char:EOLhyphen"/>lique imployments, and ſhall endeavour ſo to behave our ſelves in purſuing the ends of our Covenant, that all our waies and actions may ſpeake our conſtancy and zeale to preſerve the happy <g ref="char:V">Ʋ</g>nion and Amity of both Kingdomes, and to prevent every thing to the utmoſt of our power, that may tend to the infringement of that <g ref="char:V">Ʋ</g>nion. In aſſurance whereof, we reſt</p>
+            <closer>
+               <dateline>
+                  <hi>Newcaſtle,</hi> 
+                  <date>
+                     <hi>the 10. of June, 1646.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours, &amp;c. <hi>Leven, Loudoun, Callender, Argile, Crawfurd-Lindeſay, Dunfermling, Lanrick, Lothian A. Hepburn, D. Home, Frieland, Thomas Ker, Wil. Glendoning.</hi>
+               </signed>
+            </closer>
+            <trailer type="direction">
+               <hi>For Colonell Generall</hi> Poyntz.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
